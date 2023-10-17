@@ -1,3 +1,5 @@
+package Operators;
+
 public class LogicOne {
     public static void main(String[] args) {
         int a = 20;

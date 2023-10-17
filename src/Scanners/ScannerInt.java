@@ -1,3 +1,5 @@
+package Scanners;
+
 import java.util.Scanner;
 
 public class ScannerInt {
