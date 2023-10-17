@@ -1,4 +1,4 @@
-package basic;
+package Casting;
 
 public class CastingFns {
     public static void main(String[] args) {
